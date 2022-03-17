@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,aACE,WAAY,CACZ,WAAY,CACZ,iBAAkB,CAClB,qBAAsB,CACtB,UAAY,CACZ,cAAe,CACf,eAAiB","file":"main.e3e7f9ce.chunk.css","sourcesContent":[".styleButton {\n  width: 200px;\n  height: 40px;\n  border-radius: 5px;\n  background-color: aqua;\n  color: black;\n  font-size: 20px;\n  font-weight: bold;\n}\n"]}
